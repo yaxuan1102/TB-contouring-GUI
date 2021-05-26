@@ -14,7 +14,7 @@
   - If there is no previously drawn ROI, then you are unable to click the button.
 
 
-![image](https://user-images.githubusercontent.com/39336334/119600976-c8aadc80-be1a-11eb-97c0-f5f081c27a02.png)
+![image](https://user-images.githubusercontent.com/39336334/119602156-26402880-be1d-11eb-9d8a-f739607921ca.png)
 
 ![image](https://user-images.githubusercontent.com/39336334/119601984-cf3a5380-be1c-11eb-847b-7b4a6857aa6a.png)
 ![image](https://user-images.githubusercontent.com/39336334/119601996-d4979e00-be1c-11eb-8e07-b775b7fc67d5.png)
