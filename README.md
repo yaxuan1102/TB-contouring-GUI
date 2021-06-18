@@ -14,16 +14,16 @@
   - If there exist previously saved ROI, then after clicking the button, the ROI will be shown on the current axes.
   - If there is no previously drawn ROI, then you are unable to click the button.
 
-<img src="https://user-images.githubusercontent.com/39336334/122520150-d6343a80-d045-11eb-9bfc-5e1186881354.png" width=500 align=left><br/>
+<img src="https://user-images.githubusercontent.com/39336334/122520150-d6343a80-d045-11eb-9bfc-5e1186881354.png" width=500 align=left>. 
 
 
-<img src="https://user-images.githubusercontent.com/39336334/122520349-11cf0480-d046-11eb-88c1-a6219fa7e0a1.png" width=400 align=left><br/>
+<img src="https://user-images.githubusercontent.com/39336334/122520349-11cf0480-d046-11eb-88c1-a6219fa7e0a1.png" width=400 align=left>. 
 
 
-<img src="https://user-images.githubusercontent.com/39336334/122520511-4347d000-d046-11eb-903f-3ee28a38c170.png" width=300 align=left><br/>
+<img src="https://user-images.githubusercontent.com/39336334/122520511-4347d000-d046-11eb-903f-3ee28a38c170.png" width=300 align=left>. 
 
 
-<img src="https://user-images.githubusercontent.com/39336334/122520713-8bff8900-d046-11eb-9ecb-1c80a9cf632b.png" width=600 align=left><br/>
+<img src="https://user-images.githubusercontent.com/39336334/122520713-8bff8900-d046-11eb-9ecb-1c80a9cf632b.png" width=600 align=left>. 
 
 
 
