@@ -14,7 +14,7 @@
   - If there exist previously saved ROI, then after clicking the button, the ROI will be shown on the current axes.
   - If there is no previously drawn ROI, then you are unable to click the button.
 
-<img src="https://user-images.githubusercontent.com/39336334/122520150-d6343a80-d045-11eb-9bfc-5e1186881354.png" width=500 align=left> 
+<img src="https://user-images.githubusercontent.com/39336334/122520150-d6343a80-d045-11eb-9bfc-5e1186881354.png" width="500"/> 
 
 
 <img src="https://user-images.githubusercontent.com/39336334/122520349-11cf0480-d046-11eb-88c1-a6219fa7e0a1.png" width=300> 
