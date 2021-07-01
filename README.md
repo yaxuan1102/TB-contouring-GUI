@@ -11,7 +11,7 @@
   -  If there exist ROI on the current axes, then the binary of the ROI will be recorded. If alreadly exist ROI drwan previously, then the question dialog will show up and ask whether you want to overwrite the previous record.
   -  If there is no ROI, then the filename will be recorded in an excel file.
 - `Show Previous ROI` button
-  - If there exist previously saved ROI, then after clicking the button, the ROI will be shown on the current axes.
+  - If there exist previously saved ROI, then after clicking the button, the ROI will show on the current axes.
   - If there is no previously drawn ROI, then you are unable to click the button.
 
 <img src="https://user-images.githubusercontent.com/39336334/122520150-d6343a80-d045-11eb-9bfc-5e1186881354.png" width="440"/> 
